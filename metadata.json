@@ -1,0 +1,6 @@
+{
+  "name": "회사 전용 익명 게시판",
+  "description": "사내 개인 인증 코드를 통해 접속하는 임직원 전용 익명 게시판 및 개별 쪽지 격리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
